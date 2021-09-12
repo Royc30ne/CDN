@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Liu Jian Mao Cao';
+    src: url('LiuJianMaoCao-Regular.woff2') format('woff2'),
+        url('LiuJianMaoCao-Regular.woff') format('woff'),
+        url('LiuJianMaoCao-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
